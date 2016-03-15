@@ -32,4 +32,4 @@ are available.
 
 ### Plot 4
 
-![plot of chunk plot4](plot4.png) 
+![plot of chunk plot4](plot4 .png) 
