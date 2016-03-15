@@ -17,19 +17,19 @@ are available.
 ### Plot 1
 
 
-![plot of chunk plot1](figure/plot1.png) 
+![plot of chunk plot1](plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk plot2](figure/plot2.png) 
+![plot of chunk plot2](plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk plot3](figure/plot3.png) 
+![plot of chunk plot3](plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk plot4](figure/plot4.png) 
+![plot of chunk plot4](plot4.png) 
